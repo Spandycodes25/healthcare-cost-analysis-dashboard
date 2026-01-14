@@ -15,6 +15,22 @@ This project analyzes 1,338 patient records to understand healthcare cost patter
 
 ##  Features
 
+##  Dashboard Screenshots
+
+### Overview Dashboard
+![Dashboard Overview](images/dashboard-overview.png)
+*Real-time analytics showing cost distributions, smoker impact, and regional comparisons*
+
+### Interactive Cost Predictor
+![Cost Predictor](images/cost-predictor.png)
+*ML-powered prediction tool providing instant cost estimates based on patient characteristics*
+
+### Model Performance Insights
+![Model Performance](images/model-performance.png)
+*Feature importance analysis revealing BMI×Smoker interaction as the dominant cost driver (77%)*
+
+---
+
 ### Interactive Dashboard (4 Tabs)
 1. **Overview**: Key metrics, cost distributions, regional analysis
 2. **Deep Dive**: Filtered analysis with interactive visualizations
@@ -126,5 +142,6 @@ This project is open source and available under the MIT License.
 ## 🙏 Acknowledgments
 
 - Dataset: Kaggle Medical Cost Personal Dataset
-- Previous experience: Antimicrobial resistance prediction at Medtigo
+- Previous experience: Machine Learning in Biomedical Engineering
 - Research background: Disease-mapping ML models (89% accuracy)
+
