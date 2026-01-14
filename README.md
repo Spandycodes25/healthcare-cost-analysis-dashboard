@@ -117,7 +117,7 @@ Dashboard will automatically open at `http://localhost:8501`
 **Spandan** - Data Science Graduate Student, Northeastern University
 - 🔗 [LinkedIn](https://www.linkedin.com/in/s-spandan)
 - 🌐 [Portfolio](https://spandansurdas.vercel.app/)
-- 📧 Email: spandan.surdas25@.gmail@example.com
+- 📧 Email: spandan.surdas25@gmail.com
 
 ##  License
 
