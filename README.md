@@ -95,6 +95,15 @@ streamlit run src/dashboard.py
 5. **Open in browser**
 Dashboard will automatically open at `http://localhost:8501`
 
+## Data Setup
+
+**Download the dataset:**
+1. Go to [Medical Cost Personal Dataset on Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+2. Download `insurance.csv`
+3. Place in `data/raw/` folder
+
+The dataset contains 1,338 patient records with healthcare insurance charges and demographic information.
+
 ##  Model Performance
 
 | Metric | Value |
