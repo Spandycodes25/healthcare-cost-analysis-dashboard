@@ -98,7 +98,7 @@ Dashboard will automatically open at `http://localhost:8501`
 ## Data Setup
 
 **Download the dataset:**
-1. Go to [Medical Cost Personal Dataset on Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+1. Go to [Medical Cost Personal Dataset on Kaggle](https://www.kaggle.com/code/mragpavank/medical-cost-personal-datasets/input)
 2. Download `insurance.csv`
 3. Place in `data/raw/` folder
 
